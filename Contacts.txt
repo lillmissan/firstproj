@@ -1,0 +1,20 @@
+Name: Rebecka E
+Number: 1234
+Email: reb@mail.se
+
+Name: Filip Ö
+Number: 5678
+Email: filip@mail.se
+
+Name: Gabbbe B
+Number: 890
+Email: gab@mail.se
+
+Name: Martin L
+Number: 835
+Email: mart@mail.se
+Name: reb
+Name: yy
+Number: gfttgv
+Email: vfvf
+
